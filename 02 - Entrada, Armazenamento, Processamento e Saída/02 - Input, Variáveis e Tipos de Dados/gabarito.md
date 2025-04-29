@@ -1,3 +1,9 @@
+## Seja simpático com o usuário
+
+```python
+print(f"Olá, {input('Insira o seu nome: ')}! Seja bem-vindo(a)!")
+```
+
 ## Você não me parece velho(a)
 
 ```python
