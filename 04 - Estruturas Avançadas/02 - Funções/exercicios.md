@@ -1,3 +1,5 @@
+# Funções
+
 ## Minha primeira função
 
 - O código abaixo funciona, mas podemos melhorá-lo fazendo uma pequena refatoração.
@@ -169,6 +171,7 @@
 - A soma precisa dar acima de 24 pontos.
 - Utilize funções para organizar o código.
 - Exemplo:
+
   ```python
   Nota P1: 10
   Nota P2: 10

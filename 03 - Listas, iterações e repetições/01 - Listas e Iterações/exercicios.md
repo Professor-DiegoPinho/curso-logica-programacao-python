@@ -1,4 +1,4 @@
-# Listas
+# Listas e iterações
 
 ## Dobra tudo!
 
@@ -118,6 +118,7 @@
   3 x 10 = 30
   ```
 - **🔥 Dica**: Ao usar o for… in range, você pode determinar o número de início e final da repetição. Veja:
+
   ```python
   for indice in range (20, 25):
   	print(indice)

@@ -1,3 +1,5 @@
+# Laço de repetição while
+
 ## Mudando de perspectiva
 
 - O `for…in` não é a única forma de iterar no Python. Também podemos usar o `while`.

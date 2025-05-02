@@ -1,3 +1,5 @@
+# Variáveis Auxiliares
+
 ## Quanto eu te devo?
 
 - Você é uma pessoa de bom coração e sempre empresta dinheiro ao seu colega para ele comprar um lanche na escola. No entanto, você também quer receber o dinheiro de volta, então guarda em uma lista esses valores:

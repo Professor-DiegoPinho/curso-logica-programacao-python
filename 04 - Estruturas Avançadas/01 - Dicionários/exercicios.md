@@ -1,3 +1,5 @@
+# Dicionários
+
 ## Quantos pacientes você tem?
 
 - Por uma aleatoriedade da vida, você agora está trabalhando na equipe de TI de um hospital e precisa ajudar a administrar o prontuário dos pacientes. Crie um programa para auxiliar no cadastro do prontuário do pronto socorro.
