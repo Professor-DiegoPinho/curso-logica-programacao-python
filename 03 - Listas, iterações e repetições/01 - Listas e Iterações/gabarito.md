@@ -56,3 +56,12 @@ print("Nomes completos cadastrados:")
 for i in range(3):
   print(f"-> {nomes[i]} {sobrenomes[i]}")
 ```
+
+## Aprendendo a tabuada
+
+```python
+numero = int(input("Você quer a tabuada de qual número? "))
+print(f"Tabuada do {numero}")
+for indice in range(1,11):
+    print(f"{numero} x {indice} = {numero * indice}")
+```

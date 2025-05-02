@@ -47,6 +47,7 @@
 - O número de nomes que será cadastrado fica por conta do usuário.
 - Ao final, exiba todos os nomes que foram cadastrados.
 - Exemplo:
+
   ```python
   Quantos nomes você irá cadastrar? 5
 
@@ -94,4 +95,36 @@
   -> diego martins
   -> joão paulo
   -> miguel pereira
+  ```
+
+## Aprendendo a tabuada
+
+- Você é uma pessoa de bom coração e quer ajudar os pequenos do ensino do fundamental a aprenderem a boa e velha tabuada.
+- Como as crianças hoje já tem muito domínio da tecnologia, você fará isso através de um programa em Python.
+- Escreva um programa que possibilite o usuário a escrever um número (de 1 a 10) e mostre a tabuada deste número.
+- Exemplo:
+  ```python
+  Você quer a tabuada de qual número? # 3
+  Tabuada do 3
+  3 x 1 = 3
+  3 x 2 = 6
+  3 x 3 = 9
+  3 x 4 = 12
+  3 x 5 = 15
+  3 x 6 = 18
+  3 x 7 = 21
+  3 x 8 = 24
+  3 x 9 = 27
+  3 x 10 = 30
+  ```
+- **🔥 Dica**: Ao usar o for… in range, você pode determinar o número de início e final da repetição. Veja:
+  ```python
+  for indice in range (20, 25):
+  	print(indice)
+
+  # 20
+  # 21
+  # 22
+  # 23
+  # 24
   ```
